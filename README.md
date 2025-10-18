@@ -267,3 +267,5 @@ Like the initialization hook, `useSyncFolksCoreSigner` should be called in a com
 [npm-image]: https://img.shields.io/npm/v/@folks-finance/xchain-sdk.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@folks-finance/xchain-sdk
 [downloads-image]: https://img.shields.io/npm/dm/@folks-finance/xchain-sdk.svg?style=flat-square
+
+<!-- Auto-update: 2025-10-18T13:26:46.931659 -->
